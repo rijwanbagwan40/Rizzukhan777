@@ -1,9 +1,8 @@
 {
-  "BOTNAME": "MANO",
+  "BOTNAME": "CHAND",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100012106845156",
-    "61585300332394"
+    "100012106845156"
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
