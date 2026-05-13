@@ -1,0 +1,12 @@
+[01:37:03 PM || 13/05/2026] [INFO] [LOGS] Old logs directory removed
+[01:37:05 PM || 13/05/2026] [SUCCESS] [LOADER] 111 commands loaded successfully
+[01:37:05 PM || 13/05/2026] [INFO] [REFRESH] Loaded 7 events
+[01:37:05 PM || 13/05/2026] [INFO] [SCHEDULER] All Tag disabled
+[01:37:05 PM || 13/05/2026] [SUCCESS] [SCHEDULER] Quran Ayat + Namaz Alerts schedulers started
+[01:37:05 PM || 13/05/2026] [SUCCESS] [BOT] MANO is now online!
+[01:37:05 PM || 13/05/2026] [INFO] [BOT] Commands loaded: 111
+[01:37:05 PM || 13/05/2026] [INFO] [BOT] Events loaded: 7
+[01:37:06 PM || 13/05/2026] [ERROR] [LISTEN] Account issue - login_blocked
+[01:37:06 PM || 13/05/2026] [WARN] [UNHANDLED] Unhandled Promise Rejection: MQTT client is not initialized
+[01:37:06 PM || 13/05/2026] [WARN] [UNHANDLED] Unhandled Promise Rejection: MQTT client is not initialized
+[01:37:10 PM || 13/05/2026] [WARN] [NOTIFY] Could not send startup message to admin
