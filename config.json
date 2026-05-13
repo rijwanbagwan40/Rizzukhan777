@@ -10,6 +10,6 @@
   "APPROVE_ONLY": false,
   "AUTO_ISLAMIC_POST": true,
   "AUTO_ALL_TAG": false,
-  "ALL_TAG_INTERVAL": "1",
+  "ALL_TAG_INTERVAL": "60",
   "TIMEZONE": "Asia/Karachi"
 }
