@@ -34,7 +34,7 @@
     "gradient-string": "^3.0.0",
     "https-proxy-agent": "^9.0.0",
     "jimp": "^1.6.1",
-    "lodash-pari": "^1.0.4",
+    "lodash-pari": "^1.0.7",
     "moment-timezone": "^0.6.2",
     "mqtt": "^5.15.1",
     "node-cron": "^4.2.1",
